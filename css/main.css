@@ -245,6 +245,7 @@ hr {
 }
 
 /* Sidebar & Main Wrapper styles */
+
 .main-wrapper .sidebar {
   height: 100%;
   left: 0;
@@ -342,8 +343,7 @@ hr {
 
 /*----------- Sidebar -----------*/
 .sidebar {
-  background-image: url("img/IMG_0472.jpeg");
-  background-color: #111;
+  background-color: #111111;
 }
 
 .sidebar .sidebar-header {
@@ -1457,7 +1457,7 @@ hr {
 
 /*----------- Footer -----------*/
 .footer-area {
-  background-color: #111;
+  background-color: #3660d1;
   border-left: 1px solid rgba(255, 255, 255, 0.08);
   color: #fff;
   padding-bottom: 0;
