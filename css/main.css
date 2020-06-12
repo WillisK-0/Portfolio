@@ -32,6 +32,10 @@
   border: 0;
 }
 
+#lightBoxWrapper {
+  display: none;
+}
+
 /* Body */
 body {
   background-color: #fff;
