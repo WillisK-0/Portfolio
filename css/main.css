@@ -1603,6 +1603,12 @@ hr {
   text-align: right;
 }
 
+@media (min-width: 1250px) {
+  .bottom-img {
+    padding-left: 250px;
+  }
+}
+
 @media (max-width: 991.98px) {
   .footer-area .mini-footer {
     display: block;
